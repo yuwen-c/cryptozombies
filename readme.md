@@ -24,4 +24,4 @@
 - 引入 OpenZeppelin 的 Ownable contract 來確保合約 Owner 的權限，避免 function 被濫用
 - 引入 SafeMath 避免 uint overflow 和 underflow
 - 撰寫符合 natspec 格式的註解
-- 支援 MetaMask 擴充工具，user 可以選定的帳戶和 DApp 互動。
+- 支援 MetaMask 擴充工具，user 可以選定的帳戶和 DApp 互動
